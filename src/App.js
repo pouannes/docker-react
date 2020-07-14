@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hey there! Here's how to continue: edit <code>src/App.js</code> and
-          save to reload!
+          save to reload! This was changed in the feature branch...
         </p>
         <a
           className="App-link"
@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed on the Feature branch
+          Learn React!
         </a>
       </header>
     </div>
